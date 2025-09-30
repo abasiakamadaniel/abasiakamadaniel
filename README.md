@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @abasiakamadaniel
-- 👀 I’m interested in graphic design
-- 🌱 I’m currently learning product design
-- 💞️ I’m looking to collaborate on design related projects 
-- 📫 Send a mail contactabasiakama@gmail.com
+- 👋 Hi,
+- I’m Abasiakama Daniel
+- i write stories that compell and I help computers connect, talk and stay connected and secured
+-  I’m open to work
+-  Send a mail contactabasiakama@gmail.com
 
 <!---
 abasiakamadaniel/abasiakamadaniel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
