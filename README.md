@@ -1,6 +1,6 @@
 - 👋 Hi,
 - I’m Abasiakama Daniel
-- i write stories that compell and I help computers connect, talk and stay connected and secured
+- I write stories that compell and I help computers connect, talk and stay connected and secured
 -  I’m open to work
 -  Send a mail contactabasiakama@gmail.com
 
